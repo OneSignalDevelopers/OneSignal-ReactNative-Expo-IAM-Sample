@@ -118,11 +118,11 @@ $ expo run:android
 ```
 ---
 
-## Show your support
+## Show Your Support
 
 Give a ⭐️ if this project helped you!
 
-## OneSignal Developers
+## Join the OneSignal Developers Community
 
 * Website: https://onesignal.com/onesignal-developers
 * Twitter: [@OneSignalDevs](https://twitter.com/onesignal)
